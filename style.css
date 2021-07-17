@@ -1,0 +1,420 @@
+.wrapper{
+    
+}
+.main-body{
+    text-align: center;
+}
+.header-nav{
+    display: flex;
+    /* background-color: bisque; */
+    width: 100%;
+}
+#header-content{
+    margin: 5px;
+    display: flex;  
+}
+#logo{
+    margin-left: 350px;
+}
+.text-links{
+    margin-top: 10px;
+    margin-left: 140px;
+}
+#home{
+    margin-right: 30px;
+    text-decoration: none;
+}
+active, #home{
+    background-color: rgb(255, 191, 168);
+    border-radius: 3px;
+    color: rgb(253, 68, 0);
+    font-weight: bold;
+}
+#fees{
+    margin-right: 30px;
+    text-decoration: none;
+    color: black;
+    font-weight: bold;
+}
+#portfolio{
+    margin-right: 30px;
+    text-decoration: none;
+    color: black;
+    font-weight: bold;
+}
+#blog{
+    margin-right: 30px;
+    text-decoration: none;
+    color: black;
+    font-weight: bold;
+}
+#technology{
+    margin-right: 30px;
+    text-decoration: none;
+    color: black;
+    font-weight: bold;
+}
+#contact{
+    margin-right: 30px;
+    text-decoration: none;
+    color: black;
+    font-weight: bold;
+}
+#rome-city{
+    margin-left: -100px;
+}
+.text-below-slider{
+    margin-left: -50px;
+}
+#corporate-text{
+    color: rgb(253, 68, 0);
+}
+#whisper-heading-text{
+    font-size: 15px;
+    font-weight: bold;
+}
+#text-under-corporate{
+    font-size: 10px;
+    text-align: center;
+}
+#text-under-corporate2{
+    font-size: 7px;
+    text-align: left;
+}
+.section-one{
+    /* background-color: palegreen; */
+    width: 820px;
+    height: 80px;
+    margin-left: 300px;
+    border-bottom: 1px solid rgb(214, 209, 209);
+    border-top: 1px solid rgb(212, 205, 205);
+    padding-bottom: 10px;
+}
+.section-two{
+    width: 820px;
+    height: 80px;
+    margin-left: 300px;
+    border-bottom: 1px solid rgb(216, 208, 208);
+    padding-top: 20px;
+    padding-bottom: 20px;
+}
+.section-three{
+    width: 820px;
+    height: 140px;
+    margin-left: 300px;
+    padding-top: 20px;
+    padding-bottom: 20px;
+}
+#avatar{
+    border-radius: 10px;
+    margin-top: 10px;
+    margin-left: -60px;
+}
+#edit{
+    border-radius: 10px;
+    margin-top: 10px;
+    margin-left: -75px;
+}
+#square{
+    border-radius: 10px;
+    margin-top: 10px;
+    margin-left: -75px;
+}
+#avatar-right-text{
+    font-size: 10px;
+    margin-left: 5px;
+    margin-top: 10px;
+    font-weight: bold;
+    font-size: 10px;
+}
+#latest-project-text{
+    font-size: 10px;
+    margin-left: -80px;
+    margin-top: 10px;
+    font-weight: bold;
+    font-size: 10px;
+}
+#box-one-text{
+    margin-top: 5px;
+    font-size: 10px;
+    text-align: left;
+}
+#sports-shoes-text{
+    margin-top: 80px;
+    margin-left: -145px;
+}
+#logo-maker-heading-text{
+    margin-top: 70px;
+    margin-left: -145px;
+}
+#sports-shoes-text{
+
+}
+#shoes-bottom-text{
+    font-size: 15px;
+    font-weight: bold;
+    margin-left: -80px;
+}
+#bear-bottom-text{
+    font-size: 15px;
+    font-weight: bold;
+    margin-left: -104px;
+}
+#box-two-text{
+    margin-top: 5px;
+    font-size: 10px;
+    text-align: left;
+}
+#section-box-one{
+    /* background-color: pink; */
+    width: 200px;
+    height: 120px;
+    display: block;
+    margin-left: 80px;
+}
+#section-two-box-one{
+    width: 170px;
+    height: 80px;
+    display: block;
+    margin-left: 76px;
+}
+#section-two-box-two{
+    background-color: rgb(150, 144, 145);
+    width: 130px;
+    height: 80px;
+    margin-top: -80px;
+    margin-left: 270px;
+}
+#section-two-box-three{
+    width: 100px;
+    height: 80px;
+    margin-top: -80px;
+    margin-left: 430px;
+}
+#section-two-box-four{
+    width: 100px;
+    height: 80px;
+    margin-top: -80px;
+    margin-left: 600px;
+}
+#section-three-box-one{
+    width: 170px;
+    height: 140px;
+    display: flex;
+    margin-left: 76px;
+}
+#section-three-box-two{
+    width: 170px;
+    height: 140px;
+    display: flex;
+    margin-left: 260px;
+    margin-top: -140px;
+}
+#section-three-box-three{
+    width: 170px;
+    height: 140px;
+    display: flex;
+    margin-left: 445px;
+    margin-top: -140px;
+}#section-three-box-four{
+    width: 120px;
+    height: 110px;
+    display: flex;
+    margin-left: 445px;
+    margin-top: -140px;
+}
+#section-three-box-five{
+    width: 180px;
+    height: 140px;
+    display: flex;
+    margin-left: 580px;
+    margin-top: -110px;
+}
+#section-box-two{
+    /* background-color: rgb(150, 144, 145); */
+    width: 200px;
+    height: 120px;
+    margin-top: -120px;
+    margin-left: 320px;
+}
+#section-box-three{
+    /* background-color: rgb(158, 70, 84); */
+    width: 200px;
+    height: 120px;
+    margin-top: -120px;
+    margin-left: 560px;
+}
+#blog-text{
+    font-size: 10px;
+    font-weight: bold;
+    position: relative;
+}
+#testmonial-text{
+    font-size: 10px;
+    font-weight: bold;
+    position: relative;
+}
+#sports-shoes{
+    margin-left: -85px;
+    margin-top: 20px;
+}
+#bear{
+    margin-top: 20px;
+}
+#shoes-description-text{
+    font-size: 10px;
+}
+#logo-maker-text{
+    font-size: 10px;
+    margin-left: 70px;
+}
+#quote-text{
+    font-size: 12px;
+    text-align: left;
+}
+#run-text{
+    margin-left: -25px;
+}
+
+#logo-maker-run-text{
+    font-size: 10px;
+    margin-left: 70px;
+}
+#logo-maker{
+    margin-top: 20px;
+    margin-left: -70px;
+}
+.footer{
+    padding-top: 20px;
+    background-color: rgb(59, 57, 57);
+    width: 890px;
+    height: 230px;
+    margin-left: 270px;
+    margin-top: 10px;
+}
+#mini-footer-one{
+    width: 170px;
+    height: 165px;
+    margin-left: 100px;
+}
+#mini-footer-two{
+    width: 170px;
+    height: 166px;
+    margin-left: 280px;
+    margin-top: -182px;
+}
+#mini-footer-three{
+    width: 170px;
+    height: 166px;
+    margin-left: 470px;
+    margin-top: -182px;
+}
+#mini-footer-four{
+    width: 170px;
+    height: 166px;
+    margin-left: 660px;
+    margin-top: -182px;
+}
+#footer-logo{
+    margin-left: -70px;
+    padding-top: 20px;
+    border-radius: 5px;
+}
+#footer-one-text{
+    color: rgb(189, 184, 184);
+    margin-top: 5px;
+    font-size: 10px;
+    text-align: left;
+    width: 150px;
+}
+.last-footer{
+    margin-top: 30px;
+    background-color: black;
+    height: 35px;
+}
+#popular-heading{
+    margin-left: -40px;
+    padding-top: 20px;
+    color: rgb(189, 184, 184);
+    font-size: 12px;
+}
+#tweet-heading{
+    margin-left: -50px;
+    padding-top: 20px;
+    color: rgb(189, 184, 184);
+    font-size: 12px;
+}
+#getintouch-heading{
+    margin-left: -80px;
+    padding-top: 20px;
+    color: rgb(189, 184, 184);
+    font-size: 12px;
+}
+#common-searches{
+    margin-top: -5px;
+    text-align: left;
+    color: rgb(189, 184, 184);
+}
+#btn-whisper{
+    background-color: rgb(253, 68, 0);
+    color: #fff;
+}
+.btns{
+    color: rgb(189, 184, 184);
+    background-color: black;
+    margin-top: 2px;
+    font-size: 10px;
+}
+#twitter-logo{
+    border-radius: 10px;
+    margin-left: -110px;
+}
+#twitter-one-text{
+    font-size: 10px;
+    margin-top: -30px;
+    margin-left: 50px;
+    color: rgb(189, 184, 184);
+    padding-bottom: 5px;
+}
+#side-twitter-text{
+    margin-left: -10px;
+}
+#side-twitter-text-two{
+    margin-left: 3px;
+    margin-right: 18px;
+}
+#get-intouch-text{
+    font-size: 10px;
+    text-align: left;
+    color: rgb(189, 184, 184);
+} 
+#logos{
+    border-radius: 5px;
+}
+#copyright-text{
+    color: #fff;
+    padding-top: 5px;
+}
+#politics-text{
+    position: absolute;
+    top: 100px;
+    right: 900px;
+    background-color: rgb(247, 76, 14);
+    color: #fff;
+    width: 180px;
+    font-size: 13px;
+    line-height: 30px;
+    font-family:Arial, Helvetica, sans-serif;
+}
+#lots-text{
+    position: absolute;
+    top: 140px;
+    right: 900px;
+    height: 26px;
+    background-color: rgb(241, 240, 238);
+    color: black;
+    width: 180px;
+    font-size: 12px;
+    line-height: 30px;
+    font-family:Arial, Helvetica, sans-serif;
+}
